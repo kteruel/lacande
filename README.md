@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -67,6 +66,3 @@ Enjoy!
 [10]: https://symfony.com/doc/2.8/cookbook/email.html
 [11]: https://symfony.com/doc/2.8/cookbook/logging/monolog.html
 [13]: https://symfony.com/doc/2.8/bundles/SensioGeneratorBundle/index.html
-=======
-# lacande
->>>>>>> 92aa484001e7fdc6c1b256b7648806d71bf085d2
