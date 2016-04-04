@@ -37,5 +37,4 @@
 /build/
 
 # Composer PHAR
->>>>>>> 92aa484001e7fdc6c1b256b7648806d71bf085d2
 /composer.phar
